@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/uc?export=view&id=1BDss3TuwjneWyZ7qR21nUNktatnsJDb5 "Alexandre's Banner")
+<img width="820" alt="banner-git-2x" src="https://user-images.githubusercontent.com/58276960/102403559-3679ef00-3fc5-11eb-8714-b434bc41dd43.png">
 
 ------------
 <strong>Skills</strong>
