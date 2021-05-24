@@ -20,6 +20,7 @@ Olá! Atualmente estou estudando tecnologias de Web Development e praticando com
 <summary><strong>Projetos Recentes</strong></summary>
  <li><a href="https://github.com/ASCDevs/SortingPerformance">Performance de Ordenação</a></li>
  <li><a href="https://github.com/ASCDevs/Pizzaria-MVC">Conceito de MVC</a></li>
+ <li><a href="https://github.com/ASCDevs/Interface-Chat">Chat Application via Socket</a></li>
 </details>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascdevs&hide=html&layout=compact&theme=dracula" />
