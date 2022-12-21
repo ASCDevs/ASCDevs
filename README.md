@@ -1,4 +1,4 @@
-<img width="820" alt="banner-git-2x" src="https://user-images.githubusercontent.com/58276960/102403559-3679ef00-3fc5-11eb-8714-b434bc41dd43.png">
+<img width="820" alt="banner-git-2x" src="https://raw.githubusercontent.com/ASCDevs/ASCDevs/main/src/assets/alexandre-banner-dev.png">
 
 ------------
 ### Skills
